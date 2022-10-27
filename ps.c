@@ -1,5 +1,5 @@
 /**
- * gcc -DNUM_THREADS=1 mt-ps.c -o mt-ps
+ * gcc ps.c -o ps -lpthread
  */
 
 #include <ctype.h>

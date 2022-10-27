@@ -1,3 +1,7 @@
+/**
+ * gcc -DNUM_THREADS=num_threads mt-ps.c -o mt-ps -lpthread
+ */
+
 #include <ctype.h>
 #include <errno.h>
 #include <limits.h>
